@@ -12,6 +12,14 @@ as you may know, my project comes with a licence key,
 This is to stop spread of our name creator!
 since no one wants 4 year old trollers saying BOZO on repeat.
 
+KEY TO ACCESS:
+LEGACY
+
+copy and paste it, and make sure its all in capitals.
+we are working on a pro version, so it can make a mod menu, (add your own features for a community page).
+
+THIS WORKS IN PUBLICS!!!
+
 ADDITIONAL FEATURES:
 this project will be added too frequently, and currently works on latest version of gorilla tag.
 
